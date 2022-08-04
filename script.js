@@ -61,6 +61,6 @@ if(nota >= 5 && nota <= 10) {
 }else if(nota < 0 || nota > 10) {
     alert("´´ERROR´´ Adicione de 0 a 10")
 }else {
-    alert("Dados inválidos")
+    alert("Dados inconsistentes")
 }
 
